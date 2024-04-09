@@ -58,7 +58,7 @@
   }
   
   .bg-light-gray {
-    background-color: #747474;
+    background-color: #74747400;
   }
   
   button:active {
@@ -66,5 +66,5 @@
   }
   
   .bg-orange {
-    background-color: #f2a43b;
+    background-color: #fff700;
   }
